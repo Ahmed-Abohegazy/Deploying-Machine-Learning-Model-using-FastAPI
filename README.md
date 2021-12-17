@@ -141,5 +141,4 @@ Your terminal's output should look very similar to the next image, in which the 
 Once you have authenticated, click in the `/work` directory and you should see all of the files from your current local directory. Look for the `server.ipynb` file and open it to begin the ungraded lab.
 
 To stop the container once you are done with the lab just press `Ctrl + C` twice. This will also delete the container.
- 
-### And... that's it! Have fun deploying a Deep Learning model! :)
+
