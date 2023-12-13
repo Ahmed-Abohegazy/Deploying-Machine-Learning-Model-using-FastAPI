@@ -1,6 +1,3 @@
-
-## note :
-this code is part of MLOps specialization practice exercises
 ## Introduction
 the process of deploying an already trained Deep Learning model. To do so, we will take advantage of the user-friendly library fastAPI that provides a nice REST API framework.
  
